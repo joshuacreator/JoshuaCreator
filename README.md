@@ -38,11 +38,6 @@ I am a **Product-Focused Flutter Engineer** focused on architectural scalability
 * **Tech Stack:** Flutter, SQLite/Drift, Biometric Auth.
 * **Focus:** handling state restoration and complex CRUD operations seamlessly.
 
-### 💳 [Fintech Architecture Demo](https://github.com/joshuacreator)
-> *A reference implementation of secure payment flows.*
-* **Focus:** Payment Gateway Integration (Stripe/Paystack), Form Validation, Error Handling.
-* **State Management:** Riverpod 2.0 with Code Generation.
-
 ---
 
 ## 📊 Activity & Stats
