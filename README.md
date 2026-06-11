@@ -51,15 +51,6 @@ Available immediately for remote B2B contracts. CET/GMT aligned.
 
 ---
 
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuacreator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuacreator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
-
----
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Hire_Me-joshuae0001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuae0001@gmail.com)
