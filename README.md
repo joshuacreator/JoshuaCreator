@@ -33,21 +33,30 @@ Available immediately for remote B2B contracts. CET/GMT aligned.
 
 ## Selected Work
 
-### [Bloom — Group Chat & Streaming App](https://github.com/joshuacreator/bloom)
-> *A personal project built as a Clean Architecture showcase — real architecture decisions, not tutorial code.*
+### [flutter_adaptive_assist](https://github.com/joshuacreator/flutter_adaptive_assist) · [pub.dev ↗](https://pub.dev/packages/flutter_adaptive_assist)
+> *A native Flutter plugin that surfaces iOS and Android accessibility settings — reduce motion, high contrast, bold text, monochrome mode — as a unified, reactive Dart API.*
 
-- **Architecture:** Clean Architecture across Data, Domain, and Presentation layers with Riverpod state management.
-- **Real-time:** WebSocket infrastructure for live group messaging.
-- **Streaming:** Live video and voice via Agora SDK (WebRTC).
-- **Purpose:** Demonstrates how I structure a non-trivial feature set when no one is watching.
+- **Platform:** Swift (iOS 13+) and Kotlin (Android API 21+) via Flutter platform channels.
+- **API:** Single `AdaptiveConfig` object plus broadcast streams for real-time setting changes.
+- **Why it exists:** Most Flutter apps silently ignore the accessibility preferences their users have configured. This fixes that.
 
 ---
 
-### [Noted — Offline-First Notes App](https://github.com/joshuacreator/noted)
-> *Demonstration of robust local data persistence and state restoration patterns.*
+### [Clean Architecture Template](https://github.com/joshuacreator/clean_architecture_example)
+> *A reference implementation of the architecture pattern I use on every production project — not a tutorial, just the scaffold.*
 
-- **Tech Stack:** Flutter, SQLite / Drift, Biometric Auth.
-- **Focus:** Seamless offline CRUD with reliable state restoration across sessions.
+- **Structure:** Feature-first, with clear Data / Domain / Presentation layer separation.
+- **Testing:** Full mock strategy included; each layer tested in isolation.
+- **Use it:** Clone and replace the auth feature with your own domain.
+
+---
+
+### [Bloom — Group Chat & Streaming App](https://github.com/joshuacreator/bloom)
+> *A personal project built as a Clean Architecture showcase — real architecture decisions, not tutorial code.*
+
+- **Architecture:** Clean Architecture with Riverpod state management.
+- **Real-time:** WebSocket infrastructure for live group messaging.
+- **Streaming:** Live video and voice via Agora SDK (WebRTC).
 
 ---
 
